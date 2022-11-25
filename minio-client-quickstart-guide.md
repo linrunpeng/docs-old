@@ -58,7 +58,7 @@ mc --help
 ### 下载二进制文件
 | 平台 | CPU架构 | URL |
 | ---------- | -------- |------|
-|GNU/Linux|64-bit Intel|https://dl.min.io/client/mc/release/linux-amd64/mc |
+|GNU/Linux|64-bit Intel|[https://dl.min.io/client/mc/release/linux-amd64/mc](https://dl.min.io/client/mc/linux-arm6vl.tar.gz) |
 
 ```
 chmod +x mc
